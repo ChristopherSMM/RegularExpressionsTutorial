@@ -6,7 +6,7 @@ This is my regex tutorial on how to use the HTML sting and their individual func
 
 The regex is used to identify a pattern in a string search algorithm through a function kown as (find) or (find and replace).
 
-The HTML Tag contains < and > to represent both the opening and closing tag such as <HTML> or <main>....etc
+The HTML Tag contains < and > to represent both the opening and closing tag such as <HTML> or <main>....etc, Every opening tag has to have a closing tag or it will not run 
 
 An example of the code is /^<([a-z]+)([^<]+)*(?:>(.*)<\/\1>|\s+\/>)$/
 
