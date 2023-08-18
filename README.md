@@ -13,3 +13,6 @@ My goal with this repository is to....
 * To better undertand what i have learned and practiced
 
 * to help others that also stuggle with Express
+
+# Contributions
+In this project i worked together with (JacobG2510) 
